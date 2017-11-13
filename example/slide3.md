@@ -5,13 +5,13 @@
 ---
 
 ## Memo URL
-- https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md
+- <a href="https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md" style="display:block;width:80%;">https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md</a>
 - Chrome etc. ↓
 
 ---
 
 ## Slide URL
-- http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md
+- <a href="http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md" style="display:block;width:80%;">http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md</a>
 
 ---
 
@@ -33,6 +33,11 @@ https://youtu.be/ej3ioOneTy8
 
 ---
 
+## The Martian
+<img src="https://images-fe.ssl-images-amazon.com/images/I/41i9zBwEU0L.jpg" height="426" alt="book">
+
+---
+
 ## Plutonium
 
 <img src="http://sciencevshollywood.com/wp-content/uploads/2016/09/vlcsnap-2016-09-12-15h45m32s481.png" height="426" alt="Plutonium">
@@ -41,6 +46,8 @@ https://youtu.be/ej3ioOneTy8
 
 ## Plutonium Page
 <img src="img/plutoniumpage.PNG" height="426" alt="Plutonium Page">
+
+<a href="http://sciencevshollywood.com/staying-warm-with-a-box-of-radiation-on-the-martian/" style="display:block;width:80%;">Staying warm with a box of radiation on 'The Martian' \- Science vs Hollywood</a>
 
 ---
 
