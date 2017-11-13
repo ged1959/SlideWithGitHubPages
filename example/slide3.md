@@ -17,10 +17,12 @@
 
 ## The Martian 1
 <img src="http://www.savethecat.com/wp-content/uploads/2015/11/THE-MARTIAN-movie-poster2.jpg" height="426" alt="CineImage1">
+
 --
 
 ## The Martian 2
 <img src="https://pmcdeadline2.files.wordpress.com/2015/12/the-martian.jpg" height="426" alt="CineImage2">
+
 --
 
 ## The Martian 3
@@ -33,8 +35,10 @@ https://youtu.be/ej3ioOneTy8
 
 ---
 
-## The Martian
+## Book "The Martian"
 <img src="https://images-fe.ssl-images-amazon.com/images/I/41i9zBwEU0L.jpg" height="426" alt="book">
+
+<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="display:block;width:80%;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
 
 ---
 
