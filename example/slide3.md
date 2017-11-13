@@ -6,6 +6,8 @@
 
 ## Slide URL
 - http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md
+- 上で見られない場合はこちら。
+    - https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md
 
 ---
 
