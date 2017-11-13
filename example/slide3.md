@@ -153,3 +153,5 @@ https://youtu.be/ej3ioOneTy8
 <a href="https://kaizuka-office.jimdo.com/%E4%BC%9D%E8%A8%80%E6%9D%BF/" style="font-size:0.3em;">伝言板・・・コメントをお書きください - 貝塚司法書士事務所（大阪・天満橋）ホームページ//司法書士香山恭慶・植木克明</a>
 
 ---
+
+Thanks!
