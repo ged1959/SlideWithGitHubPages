@@ -100,14 +100,14 @@ https://youtu.be/ej3ioOneTy8
 ## 墨攻（ぼっこう）
 <img src="https://images-fe.ssl-images-amazon.com/images/I/51AjDuAdpBL.jpg" height="426" alt="book">
 
-<a href="https://www.amazon.co.jp/%E5%A2%A8%E6%94%BB%EF%BC%88%E3%81%BC%E3%81%A3%E3%81%93%E3%81%86%EF%BC%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B9%85%E4%BF%9D%E7%94%B0%E5%8D%83%E5%A4%AA%E9%83%8E-ebook/dp/B00KDAB2AE" style="font-size:0.5em;">墨攻（ぼっこう）（１） (ビッグコミックス) | 久保田千太郎, 酒見賢一, 森秀樹 | 青年コミック | Kindleストア | Amazon</a>
+<a href="https://www.amazon.co.jp/%E5%A2%A8%E6%94%BB%EF%BC%88%E3%81%BC%E3%81%A3%E3%81%93%E3%81%86%EF%BC%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B9%85%E4%BF%9D%E7%94%B0%E5%8D%83%E5%A4%AA%E9%83%8E-ebook/dp/B00KDAB2AE" style="font-size:0.3em;">墨攻（ぼっこう）（１） (ビッグコミックス) | 久保田千太郎, 酒見賢一, 森秀樹 | 青年コミック | Kindleストア | Amazon</a>
 
 --
 
 ## 墨家とは
 <img src="img/bokka2.png" height="426" alt="墨家とは">
 
-<a href="https://www.amazon.co.jp/%E5%A2%A8%E6%94%BB%EF%BC%88%E3%81%BC%E3%81%A3%E3%81%93%E3%81%86%EF%BC%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B9%85%E4%BF%9D%E7%94%B0%E5%8D%83%E5%A4%AA%E9%83%8E-ebook/dp/B00KDAB2AE" style="font-size:0.5em;">墨攻（ぼっこう）（１） (ビッグコミックス) | 久保田千太郎, 酒見賢一, 森秀樹 | 青年コミック | Kindleストア | Amazon</a>
+<a href="https://www.amazon.co.jp/%E5%A2%A8%E6%94%BB%EF%BC%88%E3%81%BC%E3%81%A3%E3%81%93%E3%81%86%EF%BC%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B9%85%E4%BF%9D%E7%94%B0%E5%8D%83%E5%A4%AA%E9%83%8E-ebook/dp/B00KDAB2AE" style="font-size:0.3em;">墨攻（ぼっこう）（１） (ビッグコミックス) | 久保田千太郎, 酒見賢一, 森秀樹 | 青年コミック | Kindleストア | Amazon</a>
 
 --
 
@@ -150,6 +150,6 @@ https://youtu.be/ej3ioOneTy8
 ## 伝言板
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s4b5b164442fcd86d/image/iceca99b63040ecbd/version/1335169557/image.jpg" height="426" alt="google20記事">
 
-<a href="https://kaizuka-office.jimdo.com/%E4%BC%9D%E8%A8%80%E6%9D%BF/" style="font-size:0.5em;">伝言板・・・コメントをお書きください - 貝塚司法書士事務所（大阪・天満橋）ホームページ//司法書士香山恭慶・植木克明</a>
+<a href="https://kaizuka-office.jimdo.com/%E4%BC%9D%E8%A8%80%E6%9D%BF/" style="font-size:0.3em;">伝言板・・・コメントをお書きください - 貝塚司法書士事務所（大阪・天満橋）ホームページ//司法書士香山恭慶・植木克明</a>
 
 ---
