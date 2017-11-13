@@ -12,7 +12,7 @@ Chrome etc. ↓
 ---
 
 ## Memo URL
-- <a href="https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md" style="display:block;width:80%;">https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md</a>
+- <a href="https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md" style="font-size:0.5em;">https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md</a>
 - Chrome etc. ↓
 
 ---
@@ -62,7 +62,7 @@ https://youtu.be/ej3ioOneTy8
 
 --
 
-<p>  The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!</p>
+<p >  The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!</p>
 
 <p>  Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. </p>
 
@@ -74,6 +74,7 @@ https://youtu.be/ej3ioOneTy8
 
 --
 
+```
   The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!
 
   Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. 
@@ -82,7 +83,8 @@ https://youtu.be/ej3ioOneTy8
 
   As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;
 
-<strong>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. </strong>
+\<strong\>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. \<\/strong\>
+```
 
 ---
 
