@@ -5,6 +5,13 @@
 ---
 
 ## Memo URL
+https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md
+
+Chrome etc. ↓
+
+---
+
+## Memo URL
 - <a href="https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md" style="display:block;width:80%;">https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md</a>
 - Chrome etc. ↓
 
@@ -33,7 +40,7 @@
 ## The Martian movie
 https://youtu.be/ej3ioOneTy8
 
----
+--
 
 ## Book "The Martian"
 <img src="https://images-fe.ssl-images-amazon.com/images/I/41i9zBwEU0L.jpg" height="426" alt="book">
@@ -52,6 +59,30 @@ https://youtu.be/ej3ioOneTy8
 <img src="img/plutoniumpage.PNG" height="426" alt="Plutonium Page">
 
 <a href="http://sciencevshollywood.com/staying-warm-with-a-box-of-radiation-on-the-martian/" style="display:block;width:80%;">Staying warm with a box of radiation on 'The Martian' \- Science vs Hollywood</a>
+
+--
+
+<p>  The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!</p>
+
+<p>  Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. </p>
+
+<p>  The RTG houses the plutonium, catches the radiation in the form of heat, and turns it into electricity. It’s not a reactor. The radiation can’t be increased or decreased. It’s a purely natural process happening at the atomic level.</p>
+
+<p> As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;</p>
+
+<p><strong>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. </strong></p>
+
+--
+
+  The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!
+
+  Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. 
+
+  The RTG houses the plutonium, catches the radiation in the form of heat, and turns it into electricity. It’s not a reactor. The radiation can’t be increased or decreased. It’s a purely natural process happening at the atomic level.
+
+  As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;
+
+<strong>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. </strong>
 
 ---
 
