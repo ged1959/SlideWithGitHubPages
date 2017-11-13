@@ -154,4 +154,5 @@ https://youtu.be/ej3ioOneTy8
 
 ---
 
+<img src="img/rainbow.png" alt="rainbow">
 Thanks!
