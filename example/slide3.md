@@ -8,25 +8,20 @@
 - <a href="https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md" style="font-size:0.5em;">https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md</a>
 - Chrome etc. ↓
 
----
+--
 
 ## Slide URL
 - <a href="http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md" style="font-size:0.5em;">http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md</a>
 
 ---
 
-## The Martian 1
+## The Martian
 <img src="http://www.savethecat.com/wp-content/uploads/2015/11/THE-MARTIAN-movie-poster2.jpg" height="426" alt="CineImage1">
 
 --
 
-## The Martian 2
+## The Martian "Alone!"
 <img src="https://pmcdeadline2.files.wordpress.com/2015/12/the-martian.jpg" height="426" alt="CineImage2">
-
---
-
-## The Martian 3
-<img src="http://s.newsweek.com/sites/www.newsweek.com/files/2015/06/17/martian-tifrss0009frnleft-1001rrgb.jpg" height="426" alt="CineImage3">
 
 --
 
@@ -55,27 +50,38 @@ https://youtu.be/ej3ioOneTy8
 
 --
 
-<list>
-<li style="font-size:0.5em;"> The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!</li>
-<li style="font-size:0.5em;"> Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. </li>
-<li style="font-size:0.5em;"> The RTG houses the plutonium, catches the radiation in the form of heat, and turns it into electricity. It’s not a reactor. The radiation can’t be increased or decreased. It’s a purely natural process happening at the atomic level.</li>
-<li style="font-size:0.5em;"> As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;</li>
-<li style="font-size:0.5em;"> <strong>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. </strong></li>
-</list>
+## RTG
+<img src="img/RTG.png" height="426" alt="RTG from book">
+
+<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="font-size:0.5em;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
 
 --
 
-```
-  The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!
+## RTG in "The Martian"
+<img src="http://im.rediff.com/news/2015/oct/15mars1b.jpg" height="426" alt="RTG in the film">
 
-  Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. 
+---
 
-  The RTG houses the plutonium, catches the radiation in the form of heat, and turns it into electricity. It’s not a reactor. The radiation can’t be increased or decreased. It’s a purely natural process happening at the atomic level.
+## Curiosity@NASA
+<img src="https://img.purch.com/w/660/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA1Ni82NjEvb3JpZ2luYWwvbWFycy1yb3Zlci1jdXJpb3NpdHktZHJpbGwtaG9sZS5qcGc=" height="426" alt="Curiosity">
 
-  As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;
+--
 
-\<strong\>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. \<\/strong\>
-```
+## Curiosity@NASA Power System
+<img src="https://i.ytimg.com/vi/ME_T4B1rxCg/maxresdefault.jpg" height="426" alt="Curiosity">
+
+--
+
+## Radioisotope Power Systems@NASA
+- <a href="https://solarsystem.nasa.gov/rps/home.cfm">radioisotope power systems</a>
+- <a href="https://mars.nasa.gov/msl/mission/technology/technologiesofbroadbenefit/power/">Power - Mars Science Laboratory</a>
+
+--
+
+## RTG
+<img src="img/RTG2.png" height="426" alt="RTG from book">
+
+<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="font-size:0.5em;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
 
 ---
 
