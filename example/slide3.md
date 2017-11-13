@@ -16,17 +16,15 @@
 ---
 
 ## The Martian 1
-![CineImage1](http://www.savethecat.com/wp-content/uploads/2015/11/THE-MARTIAN-movie-poster2.jpg)
-
+<img src="http://www.savethecat.com/wp-content/uploads/2015/11/THE-MARTIAN-movie-poster2.jpg" height="426" alt="CineImage1">
 --
 
 ## The Martian 2
-![CineImage2](https://pmcdeadline2.files.wordpress.com/2015/12/the-martian.jpg)
-
+<img src="https://pmcdeadline2.files.wordpress.com/2015/12/the-martian.jpg" height="426" alt="CineImage2">
 --
 
 ## The Martian 3
-![CineImage3](http://s.newsweek.com/sites/www.newsweek.com/files/2015/06/17/martian-tifrss0009frnleft-1001rrgb.jpg)
+<img src="http://s.newsweek.com/sites/www.newsweek.com/files/2015/06/17/martian-tifrss0009frnleft-1001rrgb.jpg" height="426" alt="CineImage3">
 
 --
 
@@ -36,12 +34,13 @@ https://youtu.be/ej3ioOneTy8
 ---
 
 ## Plutonium
-![Pulutonium](http://sciencevshollywood.com/wp-content/uploads/2016/09/vlcsnap-2016-09-12-15h45m32s481.png)
+
+<img src="http://sciencevshollywood.com/wp-content/uploads/2016/09/vlcsnap-2016-09-12-15h45m32s481.png" height="426" alt="Plutonium">
 
 --
 
 ## Plutonium Page
-<img src="img/plutoniumpage.PNG" height="426">
+<img src="img/plutoniumpage.PNG" height="426" alt="Plutonium Page">
 
 ---
 
