@@ -5,20 +5,13 @@
 ---
 
 ## Memo URL
-https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md
-
-Chrome etc. ↓
-
----
-
-## Memo URL
 - <a href="https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md" style="font-size:0.5em;">https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md</a>
 - Chrome etc. ↓
 
 ---
 
 ## Slide URL
-- <a href="http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md" style="display:block;width:80%;">http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md</a>
+- <a href="http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md" style="font-size:0.5em;">http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md</a>
 
 ---
 
@@ -45,7 +38,7 @@ https://youtu.be/ej3ioOneTy8
 ## Book "The Martian"
 <img src="https://images-fe.ssl-images-amazon.com/images/I/41i9zBwEU0L.jpg" height="426" alt="book">
 
-<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="display:block;width:80%;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
+<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="font-size:0.5em;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
 
 ---
 
@@ -58,19 +51,17 @@ https://youtu.be/ej3ioOneTy8
 ## Plutonium Page
 <img src="img/plutoniumpage.PNG" height="426" alt="Plutonium Page">
 
-<a href="http://sciencevshollywood.com/staying-warm-with-a-box-of-radiation-on-the-martian/" style="display:block;width:80%;">Staying warm with a box of radiation on 'The Martian' \- Science vs Hollywood</a>
+<a href="http://sciencevshollywood.com/staying-warm-with-a-box-of-radiation-on-the-martian/" style="font-size:0.5em;">Staying warm with a box of radiation on 'The Martian' \- Science vs Hollywood</a>
 
 --
 
-<p >  The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!</p>
-
-<p>  Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. </p>
-
-<p>  The RTG houses the plutonium, catches the radiation in the form of heat, and turns it into electricity. It’s not a reactor. The radiation can’t be increased or decreased. It’s a purely natural process happening at the atomic level.</p>
-
-<p> As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;</p>
-
-<p><strong>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. </strong></p>
+<list>
+<li style="font-size:0.5em;"> The RTG (radioisotope thermoelectric generator) is a big box of plutonium. But not the kind used in nuclear bombs. No, no. This plutonium is way more dangerous!</li>
+<li style="font-size:0.5em;"> Plutonium-238 is an incredibly unstable isotope. It’s so radioactive that it will get red hot all by itself. As you can imagine, a material that can literally fry an egg with radiation is kind of dangerous. </li>
+<li style="font-size:0.5em;"> The RTG houses the plutonium, catches the radiation in the form of heat, and turns it into electricity. It’s not a reactor. The radiation can’t be increased or decreased. It’s a purely natural process happening at the atomic level.</li>
+<li style="font-size:0.5em;"> As long ago as the 1960s, NASA began using RTGs to power unmanned probes. They have lots of advantages over solar power. They’re not affected by storms; they work day or night;</li>
+<li style="font-size:0.5em;"> <strong>Weir, Andy. The Martian: A Novel (p. 73). Crown/Archetype. Kindle Edition. </strong></li>
+</list>
 
 --
 
