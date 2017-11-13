@@ -57,8 +57,20 @@ https://youtu.be/ej3ioOneTy8
 
 --
 
+## RTG
+<img src="img/RTG2.png" height="426" alt="RTG from book">
+
+<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="font-size:0.5em;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
+
+--
+
 ## RTG in "The Martian"
 <img src="http://im.rediff.com/news/2015/oct/15mars1b.jpg" height="426" alt="RTG in the film">
+
+--
+
+## Mars Temperature
+<img src="https://i.imgur.com/RTwFw4Q.jpg" height="426" alt="RTG in the film">
 
 ---
 
@@ -76,61 +88,68 @@ https://youtu.be/ej3ioOneTy8
 - <a href="https://solarsystem.nasa.gov/rps/home.cfm">radioisotope power systems</a>
 - <a href="https://mars.nasa.gov/msl/mission/technology/technologiesofbroadbenefit/power/">Power - Mars Science Laboratory</a>
 
---
-
-## RTG
-<img src="img/RTG2.png" height="426" alt="RTG from book">
-
-<a href="https://www.amazon.co.jp/dp/B00EMXBDMA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" style="font-size:0.5em;">Amazon\.co\.jp: The Martian: A Novel 電子書籍: Andy Weir: Kindleストア</a>
-
 ---
 
-## Lists
+## 映画「墨攻」
+<img src="http://eiga.k-img.com/images/movie/1022/photo/084ed5db0589104d/320.jpg?1495096453" height="426" alt="墨攻">
 
-- List1
-- List2
-- List3
-
----
-
-## vertical scroll
-
-- first slide
+<a href="https://youtu.be/9ZDV1R-rfnk" style="font-size:0.5em;">https://youtu.be/9ZDV1R-rfnk</a>
 
 --
 
-- second slide
+## 墨攻（ぼっこう）
+<img src="https://images-fe.ssl-images-amazon.com/images/I/51AjDuAdpBL.jpg" height="426" alt="book">
+
+<a href="https://www.amazon.co.jp/%E5%A2%A8%E6%94%BB%EF%BC%88%E3%81%BC%E3%81%A3%E3%81%93%E3%81%86%EF%BC%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B9%85%E4%BF%9D%E7%94%B0%E5%8D%83%E5%A4%AA%E9%83%8E-ebook/dp/B00KDAB2AE" style="font-size:0.5em;">墨攻（ぼっこう）（１） (ビッグコミックス) | 久保田千太郎, 酒見賢一, 森秀樹 | 青年コミック | Kindleストア | Amazon</a>
+
+--
+
+## 墨家とは
+<img src="img/bokka2.png" height="426" alt="墨家とは">
+
+<a href="https://www.amazon.co.jp/%E5%A2%A8%E6%94%BB%EF%BC%88%E3%81%BC%E3%81%A3%E3%81%93%E3%81%86%EF%BC%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B9%85%E4%BF%9D%E7%94%B0%E5%8D%83%E5%A4%AA%E9%83%8E-ebook/dp/B00KDAB2AE" style="font-size:0.5em;">墨攻（ぼっこう）（１） (ビッグコミックス) | 久保田千太郎, 酒見賢一, 森秀樹 | 青年コミック | Kindleストア | Amazon</a>
+
+--
+
+## 墨家の思想
+- 防衛のための戦争は否定しない。
+- 土木、冶金などの工学技術を磨く。
+- 人間観察。
+- 他国に侵攻された城の防衛に参加。
 
 ---
 
-## code
+## 量子科学実験衛星「墨子」
+<img src="img/bokka.png" height="426" alt="墨子記事">
 
-```java
-public class HelloWorld {
-  public static void main(String[] args) {
-      System.out.println("Hello World!");
-  }
-}
-```
+<a href="https://www.newscientist.com/article/2134843-chinese-satellite-beats-distance-record-for-quantum-entanglement/" style="font-size:0.5em;">Chinese satellite beats distance record for quantum entanglement | New Scientist</a>
 
----
+--
 
-## image1 img1.jpg
+## 「墨子」衛星への期待
+<img src="https://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/ycp_ycwb_com/197cc10d68ff14260e80063a4d5706e0.jpg" height="426" alt="墨子期待">
 
-![image](img1.jpg)
+<a href="https://www.weibo.com/ttarticle/p/show?id=2309351000194010134840955719" style="font-size:0.5em;">中国发射全球首颗量子卫星，为何命名“墨子”？</a>
 
----
+--
 
-## image2 img/img2.jpg
+## なぜ「墨子」？
+<img src="img/bokka4.png" height="426" alt="墨子理由">
 
-![image](img/img2.jpg)
+<a href="https://www.weibo.com/ttarticle/p/show?id=2309351000194010134840955719" style="font-size:0.5em;">中国发射全球首颗量子卫星，为何命名“墨子”？</a>
 
 ---
 
-## image3 absolute path
+## Google 20%
+<img src="img/google20.png" height="426" alt="google20記事">
 
-![image](http://yamap55.github.io/Slide/20170827/img1.jpg)
+<a href="https://arstechnica.com/information-technology/2013/08/googles-20-percent-time-is-as-good-as-dead-because-it-doesnt-need-it-anymore/" style="font-size:0.5em;">Google’s 20 percent time is “as good as dead” because it doesn’t need it anymore | Ars Technica</a>
 
 ---
 
-https://github.com/yamap55/SlideWithGitHubPages
+## 伝言板
+<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s4b5b164442fcd86d/image/iceca99b63040ecbd/version/1335169557/image.jpg" height="426" alt="google20記事">
+
+<a href="https://kaizuka-office.jimdo.com/%E4%BC%9D%E8%A8%80%E6%9D%BF/" style="font-size:0.5em;">伝言板・・・コメントをお書きください - 貝塚司法書士事務所（大阪・天満橋）ホームページ//司法書士香山恭慶・植木克明</a>
+
+---
