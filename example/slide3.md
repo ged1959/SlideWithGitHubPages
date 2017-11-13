@@ -41,7 +41,7 @@ https://youtu.be/ej3ioOneTy8
 --
 
 ## Plutonium Page
-![PlutoniumPage](img/plutoniumpage.PNG)
+<img src="img/plutoniumpage.PNG" height="426">
 
 ---
 
