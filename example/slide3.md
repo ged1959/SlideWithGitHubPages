@@ -127,7 +127,7 @@ https://youtu.be/ej3ioOneTy8
 --
 
 ## 「墨子」衛星への期待
-<img src="https://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/ycp_ycwb_com/197cc10d68ff14260e80063a4d5706e0.jpg" height="426" alt="墨子期待">
+<img src="img/197cc10d68ff14260e80063a4d5706e0.jpg" height="426" alt="墨子期待">
 
 <a href="https://www.weibo.com/ttarticle/p/show?id=2309351000194010134840955719" style="font-size:0.5em;">中国发射全球首颗量子卫星，为何命名“墨子”？</a>
 
