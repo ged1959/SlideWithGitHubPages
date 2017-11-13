@@ -4,15 +4,44 @@
 
 ---
 
-## Slide URL
-- http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md
-- 上で見られない場合はこちら。
-    - https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md
+## Memo URL
+- https://github.com/ged1959/SlideWithGitHubPages/blob/master/example/slide3.md
+- Chrome etc. ↓
 
 ---
 
-## The Martian
+## Slide URL
+- http://ged1959.github.io/SlideWithGitHubPages/index.html?slide=example/slide3.md
+
+---
+
+## The Martian 1
+![CineImage1](http://www.savethecat.com/wp-content/uploads/2015/11/THE-MARTIAN-movie-poster2.jpg)
+
+--
+
+## The Martian 2
+![CineImage2](https://pmcdeadline2.files.wordpress.com/2015/12/the-martian.jpg)
+
+--
+
+## The Martian 3
+![CineImage3](http://s.newsweek.com/sites/www.newsweek.com/files/2015/06/17/martian-tifrss0009frnleft-1001rrgb.jpg)
+
+--
+
+## The Martian movie
 https://youtu.be/ej3ioOneTy8
+
+---
+
+## Plutonium
+![Pulutonium](http://sciencevshollywood.com/wp-content/uploads/2016/09/vlcsnap-2016-09-12-15h45m32s481.png)
+
+--
+
+## Plutonium Page
+![PlutoniumPage](img/plutoniumpage.PNG)
 
 ---
 
