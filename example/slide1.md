@@ -1,6 +1,6 @@
 # Slide1 Title
 
-yamap_55
+yamap_55 => YOIKA
 
 ---
 
