@@ -93,7 +93,7 @@ https://youtu.be/ej3ioOneTy8
 ## 映画「墨攻」
 <img src="http://eiga.k-img.com/images/movie/1022/photo/084ed5db0589104d/320.jpg?1495096453" height="426" alt="墨攻">
 
-<a href="https://youtu.be/9ZDV1R-rfnk" style="font-size:0.5em;">https://youtu.be/9ZDV1R-rfnk</a>
+<a href="https://youtu.be/9ZDV1R-rfnk">https://youtu.be/9ZDV1R-rfnk</a>
 
 --
 
